@@ -1,3 +1,3 @@
-# plugin_deevlopment
+# plugin_devlopment
 
 Plugin for wordpress.
